@@ -1,4 +1,4 @@
-## Hello there, I am Sharv Utpat !!! there 👋
+## Hello there, I am Sharv Utpat !!! 👋
 
 🎓 I am a recent graduate from the University of Texas at Dallas with a degree in Computer Science. 
 
