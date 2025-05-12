@@ -1,4 +1,4 @@
-## Hello there, I am Sharv Utpat !!! 👋
+# Hello there, I am Sharv Utpat !!! 👋
 
 🎓 I am a recent graduate from the University of Texas at Dallas with a degree in Computer Science. 
 
@@ -13,7 +13,7 @@
 🤝  I am interested in collaborating on full stack and web development projects<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sharvutpat/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sutpat1@gmail.com) 
 
 # 💻 Tech Stack:
@@ -23,7 +23,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sutpat1&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 
