@@ -7,7 +7,7 @@
 🖥️  See my portfolio at <a href="https://sharvutpat.com/" target="_blank" rel="noopener noreferrer">sharvutpat.com</a> <br>
 ✉️  Email me at <a href="mailto:sutpat1@gmail.com">sutpat1@gmail.com</a> <br>
 🐳  I am currently learning Docker <br>
-🤝  I am interested in collaborating on full stack and web development projects<br>
+🤝  I am interested in collaborating on full stack and AI/ML projects<br>
 
 
 # 🌐 Social Media:
