@@ -20,7 +20,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E.svg?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 # 📊 GitHub Statistics:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sutpat1&theme=default_repocard&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sutpat1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # ✍️ Insightful Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
